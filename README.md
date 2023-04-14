@@ -6,12 +6,12 @@
     </h3>
 
 </div>
---->
+---
 
-Here are some ideas to get you started:
+### About me:
 
 - 🌱 I’m currently learning Java, Javascript
 - 💬 Ask me about Java 
 - 📫 How to reach me: ricardodelva2020@gmail.com
 
--->
+
