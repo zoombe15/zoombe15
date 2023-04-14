@@ -10,8 +10,8 @@
 ---
 ### About me:
 
-- 🌱 I’m currently learning Java, Javascript
-- 💬 Ask me about Java 
-- 📫 How to reach me: ricardodelva2020@gmail.com
+- 🌱 I’m currently learning *Java, Javascript*
+- 💬 Ask me about *Java*
+- 📫 How to reach me: *ricardodelva2020@gmail.com*
 
 
