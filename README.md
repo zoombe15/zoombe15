@@ -12,6 +12,6 @@
 
 - 🌱 I’m currently learning **Java, Javascript**
 - 💬 Ask me about **Java**
-- 📫 How to reach me: **ricardodelva2020@gmail.com**
+- 📫 How to reach me: **rdelvalle.ty@gmail.com**
 
 
